@@ -1,6 +1,8 @@
 # Navigation
 Deep Reinforcement Learning Nanodegree Project 1
 
+![Unity Banana Navigation](images/trained.gif)
+
 ## Project description
 For this project, the task is to train an agent to navigate (and collect bananas) in a large, square world. 
 
