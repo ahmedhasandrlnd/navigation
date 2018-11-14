@@ -26,3 +26,6 @@ PC configuration used for this project:
 * Processor: 1.3 GHz Intel Core i5
 * Memory: 4GB 1600MHz DDR3
 * Graphics: Intel HD Graphics 5000 1536MB
+
+### Environment setup
+For detailed Python environment setup (PyTorch, the ML-Agents toolkit, and a few more Python packages) please follow these steps: [link](https://github.com/udacity/deep-reinforcement-learning#dependencies) 
