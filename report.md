@@ -33,7 +33,7 @@ Layer 3 | (64,Action_size)|-|-
 
 ![plot](images/plot_navigation_dqn.png)
 
-`<Episode 100	Average Score: 0.14>`<br/>
+```<Episode 100	Average Score: 0.14>`<br/>
 `Episode 200	Average Score: 0.39`<br/>
 `Episode 300	Average Score: 1.15`<br/>
 `Episode 400	Average Score: 2.24`<br/>
@@ -51,7 +51,7 @@ Layer 3 | (64,Action_size)|-|-
 `Episode 1600	Average Score: 11.81`<br/>
 `Episode 1700	Average Score: 12.40`<br/>
 `Episode 1780	Average Score: 13.02`<br/>
-`Environment solved in 1680 episodes!	Average Score: 13.02`<br/>
+`Environment solved in 1680 episodes!	Average Score: 13.02`<br/>```
 
 
 ### Ideas for future work
