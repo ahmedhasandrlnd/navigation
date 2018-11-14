@@ -33,10 +33,10 @@ Layer 3 | (64,Action_size)|-|-
 
 ![plot](images/plot_navigation_dqn.png)
 
-`Episode 100	Average Score: 0.14`
-`Episode 200	Average Score: 0.39`
-Episode 300	Average Score: 1.15
-Episode 400	Average Score: 2.24
+`Episode 100	Average Score: 0.14\n
+Episode 200	Average Score: 0.39\n
+Episode 300	Average Score: 1.15/n
+Episode 400	Average Score: 2.24/n
 Episode 500	Average Score: 3.36
 Episode 600	Average Score: 3.93
 Episode 700	Average Score: 4.91
