@@ -1,6 +1,7 @@
 # Project report
 ### Learning algorithm
-The learning algorithm used is vanilla Deep Q Learning as described in the [original paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf). As an input the vector of state is used instead of an image so convolutional neural nework is replaced with deep neural network. 
+The learning algorithm used is vanilla Deep Q Learning as described in the [original paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf). As batch of vector of state is used as input instead of an image, so convolutional neural nework is replaced with deep neural network. 
+![DQN Algorithm](images/dqn_algorithm.png)
 
 The deep neural network has following layers:
 
