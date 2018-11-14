@@ -7,14 +7,22 @@ The pseudo-code of this agorithm is given below from the udacity lecture:
 
 ![DQN Algorithm](images/dqn_algorithm.png)
 
+### Parameters used in DQN algorithm:
+
+* Maximum steps per episode: 1000
+* Starting epsilion: 1.0
+* Ending epsilion: 0.01
+* Epsilion decay rate: 0.999
+* replay buffer size (N): 1000000  
+* minibatch size: 128         
+* discount factor: 0.99            
+* for soft update of target parameters (TAU): 0.001              
+* learning rate: 0.0005               
+* how often to update the network (C): 32        
+
+### Network Architecture
 The deep neural network has following layers:
 
 Fully connected layer - input: 37 (state size) output: 128
 Fully connected layer - input: 128 output 64
 Fully connected layer - input: 64 output: (action size)
-Parameters used in DQN algorithm:
-
-Maximum steps per episode: 1000
-Starting epsilion: 1.0
-Ending epsilion: 0.01
-Epsilion decay rate: 0.999
