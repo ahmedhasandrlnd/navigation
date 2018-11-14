@@ -15,3 +15,12 @@ For this project, the task is to train an agent to navigate (and collect bananas
 	* 2 - move left
 	* 3 - move right
 * Solution criteria: the environment is considered as solved when the agent gets an average score of +13 over 100 consecutive episodes.
+
+## Getting started
+### Configuration
+PC configuration used for this project:
+
+* OS: Mac OS 11.3 El Capitan
+* Processor: 1.3 GHz Intel Core i5
+* Memory: 4GB 1600MHz DDR3
+* Graphics: Intel HD Graphics 5000 1536MB
