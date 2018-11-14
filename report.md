@@ -7,7 +7,7 @@ The pseudo-code of this agorithm is given below from the udacity [lecture](https
 
 ![DQN Algorithm](images/dqn_algorithm.png)
 
-Different enhancements of the original vanilla DQN are proposed so far, such as Prioritized Experience Replay [(paper)](https://arxiv.org/abs/1511.05952) ,Double Deep Q Networks [(paper)](https://arxiv.org/abs/1509.06461) and Dueling Deep Q Networks [(paper)](https://arxiv.org/abs/1511.06581). In this project we are going to implement Dueling Deep Q Networks. The core idea of Dueling Deep Q Networks is to use two streams: one that estimates the state value function and the other that estimates the advantage of each action. This two streams share same layers at the beginning, then branch off with their own fully connected layers. Finally the desired Q values are obtained by bcombining the state and advantage values.
+Different enhancements of the original vanilla DQN are proposed so far, such as Prioritized Experience Replay [(paper)](https://arxiv.org/abs/1511.05952) ,Double Deep Q Networks [(paper)](https://arxiv.org/abs/1509.06461) and Dueling Deep Q Networks [(paper)](https://arxiv.org/abs/1511.06581). In this project we are going to implement Dueling Deep Q Networks. The core idea of Dueling Deep Q Networks is to use two streams: one that estimates the state value function and the other that estimates the advantage of each action. This two streams share same layers at the beginning, then branch off with their own fully connected layers. Finally the desired Q values are obtained by combining the state and advantage values.
 
 ### Parameters used in DQN algorithm:
 
