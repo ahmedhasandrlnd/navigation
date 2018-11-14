@@ -62,6 +62,11 @@ Episode 1721	Average Score: 13.07
 Environment solved in 1621 episodes!	Average Score: 13.07
 ```
 
+### Untrained Agent
+![untrained agent](images/untrained.gif)
+
+### Untrained Agent
+![trained agent](images/trained.gif)
 
 ### Ideas for future work
 1. Prioritized Experience Replay [paper](https://arxiv.org/abs/1511.05952)
