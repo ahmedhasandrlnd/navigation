@@ -66,7 +66,6 @@ Environment solved in 1621 episodes!	Average Score: 13.07
 ### Ideas for future work
 1. Prioritized Experience Replay [paper](https://arxiv.org/abs/1511.05952)
 1. Double Deep Q Networks [paper](https://arxiv.org/abs/1509.06461)
-1. Dueling Deep Q Networks [paper](https://arxiv.org/abs/1511.06581)
 1. Learning from multi-step bootstrap targets [paper](https://arxiv.org/abs/1611.05397)
 1. Distributional DQN [paper](https://arxiv.org/abs/1707.06887)
 1. Noisy DQN [paper](https://arxiv.org/abs/1706.10295)
