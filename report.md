@@ -30,4 +30,25 @@ Layer 2 | (128,64)|yes|ReLU
 Layer 3 | (64,Action_size)|-|-
 
 ### Results
+
 ![plot](images/plot_navigation_dqn.png)
+
+`Episode 100	Average Score: 0.14
+Episode 200	Average Score: 0.39
+Episode 300	Average Score: 1.15
+Episode 400	Average Score: 2.24
+Episode 500	Average Score: 3.36
+Episode 600	Average Score: 3.93
+Episode 700	Average Score: 4.91
+Episode 800	Average Score: 5.51
+Episode 900	Average Score: 6.93
+Episode 1000	Average Score: 7.64
+Episode 1100	Average Score: 8.15
+Episode 1200	Average Score: 8.61
+Episode 1300	Average Score: 10.31
+Episode 1400	Average Score: 10.79
+Episode 1500	Average Score: 10.89
+Episode 1600	Average Score: 11.81
+Episode 1700	Average Score: 12.40
+Episode 1780	Average Score: 13.02
+Environment solved in 1680 episodes!	Average Score: 13.02`
