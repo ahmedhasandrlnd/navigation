@@ -58,7 +58,7 @@ Layer 3 | (64,Action_size)|-|-
 1. Prioritized Experience Replay [paper](https://arxiv.org/abs/1511.05952)
 1. Double Deep Q Networks [paper](https://arxiv.org/abs/1509.06461)
 1. Dueling Deep Q Networks [paper](https://arxiv.org/abs/1511.06581)
-1. Learning from multi-step bootstrap targets paper
+1. Learning from multi-step bootstrap targets [paper](https://arxiv.org/abs/1611.05397)
 1. Distributional DQN [paper](https://arxiv.org/abs/1707.06887)
 1. Noisy DQN [paper](https://arxiv.org/abs/1706.10295)
 1. RAINBOW [Paper](https://arxiv.org/abs/1710.02298)
