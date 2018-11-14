@@ -39,4 +39,5 @@ All project files are structed as follows:
 * Report.md- Explains the algorithm used and ideas for future improvement.
 * README.md- It describes the project environment details, installation instruction and training code.
 * images- This folder contains diiferent images used in the project.
+* Banana.app- It contains the built in unity environment used in the project.
 * Navigation.ipynb- This notebook contains training code for the agent and our solution for this environment.
