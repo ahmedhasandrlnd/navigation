@@ -65,7 +65,7 @@ Environment solved in 1621 episodes!	Average Score: 13.07
 ### Untrained Agent
 ![untrained agent](images/untrained.gif)
 
-### Untrained Agent
+### Trained Agent
 ![trained agent](images/trained.gif)
 
 ### Ideas for future work
