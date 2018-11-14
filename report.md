@@ -52,3 +52,14 @@ Layer 3 | (64,Action_size)|-|-
 `Episode 1700	Average Score: 12.40`<br/>
 `Episode 1780	Average Score: 13.02`<br/>
 `Environment solved in 1680 episodes!	Average Score: 13.02`<br/>
+
+
+### Ideas for future work
+1. Prioritized Experience Replay [paper](https://arxiv.org/abs/1511.05952)
+1. Double Deep Q Networks [paper](https://arxiv.org/abs/1509.06461)
+1. Dueling Deep Q Networks [paper](https://arxiv.org/abs/1511.06581)
+1. Learning from multi-step bootstrap targets paper
+1. Distributional DQN [paper](https://arxiv.org/abs/1707.06887)
+1. Noisy DQN [paper](https://arxiv.org/abs/1706.10295)
+1. RAINBOW [Paper](https://arxiv.org/abs/1710.02298)
+1. Learning from images
