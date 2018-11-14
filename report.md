@@ -28,3 +28,6 @@ Layer        | (in, out)        | Batchnorm | Activation
 Layer 1 | (State_size,128)|yes|ReLU
 Layer 2 | (128,64)|yes|ReLU
 Layer 3 | (64,Action_size)|-|-
+
+### Results
+![plot](plot_navigation_dqn.png)
