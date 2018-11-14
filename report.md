@@ -23,6 +23,8 @@ The pseudo-code of this agorithm is given below from the udacity lecture:
 ### Network Architecture
 The deep neural network has following layers:
 
-Fully connected layer - input: 37 (state size) output: 128
-Fully connected layer - input: 128 output 64
-Fully connected layer - input: 64 output: (action size)
+Layer        | (in, out)        | Bacthnorm | Activation      
+------------ | -----------------|-----------|------------
+Layer 1 | (State_size,128)|yes|ReLU
+Layer 2 | (128,64)|yes|ReLU
+Layer 3 | (64,Action_size)|-|-
