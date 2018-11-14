@@ -35,8 +35,8 @@ All project files are structed as follows:
 
 * model.py - It contains the neural network architecture.
 * dqn_agent.py - It contains agent and replay buffer class implementation. agent class interacts with and learns from the environment. replay buffer class has a fixed-size buffer to store experience tuples.
-* Navigation.ipynb- This notebook contains training code for the agent and our solution for this environment.
 * checkpoint_dqn.pth- It contains the trained model weights.
 * Report.md- Explains the algorithm used and ideas for future improvement.
 * README.md- It describes the project environment details, installation instruction and training code.
-* images- It contains diiferent images used in the project.
+* images- This folder contains diiferent images used in the project.
+* Navigation.ipynb- This notebook contains training code for the agent and our solution for this environment.
