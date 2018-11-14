@@ -42,14 +42,14 @@ Finally, the advantage branch and state branch are combined to get the desired Q
 
 ```
 EEpisode 100	Average Score: 0.28
-Episode 200		Average Score: 0.56
-Episode 300		Average Score: 1.07
-Episode 400		Average Score: 1.60
-Episode 500		Average Score: 2.95
-Episode 600		Average Score: 3.76
-Episode 700		Average Score: 5.28
-Episode 800		Average Score: 6.08
-Episode 900		Average Score: 5.87
+Episode 200	Average Score: 0.56
+Episode 300	Average Score: 1.07
+Episode 400	Average Score: 1.60
+Episode 500	Average Score: 2.95
+Episode 600	Average Score: 3.76
+Episode 700	Average Score: 5.28
+Episode 800	Average Score: 6.08
+Episode 900	Average Score: 5.87
 Episode 1000	Average Score: 7.62
 Episode 1100	Average Score: 8.33
 Episode 1200	Average Score: 8.98
