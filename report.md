@@ -23,7 +23,7 @@ The pseudo-code of this agorithm is given below from the udacity lecture:
 ### Network Architecture
 The deep neural network has following layers:
 
-Layer        | (in, out)        | Bacthnorm | Activation      
+Layer        | (in, out)        | Batchnorm | Activation      
 ------------ | -----------------|-----------|------------
 Layer 1 | (State_size,128)|yes|ReLU
 Layer 2 | (128,64)|yes|ReLU
