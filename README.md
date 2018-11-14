@@ -29,3 +29,13 @@ PC configuration used for this project:
 
 ### Environment setup
 For detailed Python environment setup (PyTorch, the ML-Agents toolkit, and a few more Python packages) please follow these steps: [link](https://github.com/udacity/deep-reinforcement-learning#dependencies) 
+
+### Structure
+All project files are structed as follows:
+
+* model.py - It contains the neural network architecture.
+* dqn_agent.py - It contains agent and replay buffer class implementation. agent class interacts with and learns from the environment. replay buffer class has a fixed-size buffer to store experience tuples.
+* Navigation.ipynb- This notebook contains training code for the agent and our solution for this environment.
+* checkpoint_dqn.pth- It contains the trained model weights.
+* Report.md- Explains the algorithm used and ideas for future improvement.
+* README.md- It describes the project environment details, installation instruction and training code.
