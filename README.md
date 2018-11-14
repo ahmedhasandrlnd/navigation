@@ -39,3 +39,4 @@ All project files are structed as follows:
 * checkpoint_dqn.pth- It contains the trained model weights.
 * Report.md- Explains the algorithm used and ideas for future improvement.
 * README.md- It describes the project environment details, installation instruction and training code.
+* images- It contains diiferent images used in the project.
