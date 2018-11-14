@@ -28,36 +28,38 @@ The dueling DQN used in our implementation has the following architecture:
 
 Branch1      |(in,out)|Layer        | (in, out) | Batchnorm | Activation|Branch2  |(in,out)      
 ------------ | -------|-------------|-----------|-----------|-----------|---------|--------
--|-|Layer 1 | (State_size,128)|yes|ReLU|-|-
--|-|Layer 2 | (128,64)|yes|ReLU|-|-
-Advantage| (64,Action_size)|-|-|-|-|State|(64,1)
+-|-|Layer 1 | (State_size,64)|yes|ReLU|-|-
+-|-|Layer 2 | (64,128)|yes|ReLU|-|-
+-|-|Layer 3 | (128,64)|yes|ReLU|-|-
+-|-|Layer 4 | (64,32)|yes|ReLU|-|-
+Advantage| (32,Action_size)|-|-|-|-|State|(32,1)
 
 Finally, the advantage branch and state branch are combined to get the desired Q values.
 
 ### Results
 
-![plot](images/plot_navigation_dqn.png)
+![plot](images/plot_navigation_dueling.png)
 
 ```
-Episode 100	Average Score: 0.14
-Episode 200	Average Score: 0.39
-Episode 300	Average Score: 1.15
-Episode 400	Average Score: 2.24
-Episode 500	Average Score: 3.36
-Episode 600	Average Score: 3.93
-Episode 700	Average Score: 4.91
-Episode 800	Average Score: 5.51
-Episode 900	Average Score: 6.93
-Episode 1000	Average Score: 7.64
-Episode 1100	Average Score: 8.15
-Episode 1200	Average Score: 8.61
-Episode 1300	Average Score: 10.31
-Episode 1400	Average Score: 10.79
-Episode 1500	Average Score: 10.89
-Episode 1600	Average Score: 11.81
-Episode 1700	Average Score: 12.40
-Episode 1780	Average Score: 13.02
-Environment solved in 1680 episodes!	Average Score: 13.02
+EEpisode 100	Average Score: 0.28
+Episode 200		Average Score: 0.56
+Episode 300		Average Score: 1.07
+Episode 400		Average Score: 1.60
+Episode 500		Average Score: 2.95
+Episode 600		Average Score: 3.76
+Episode 700		Average Score: 5.28
+Episode 800		Average Score: 6.08
+Episode 900		Average Score: 5.87
+Episode 1000	Average Score: 7.62
+Episode 1100	Average Score: 8.33
+Episode 1200	Average Score: 8.98
+Episode 1300	Average Score: 9.82
+Episode 1400	Average Score: 10.02
+Episode 1500	Average Score: 10.83
+Episode 1600	Average Score: 11.09
+Episode 1700	Average Score: 12.67
+Episode 1721	Average Score: 13.07
+Environment solved in 1621 episodes!	Average Score: 13.07
 ```
 
 
