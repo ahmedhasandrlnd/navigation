@@ -29,6 +29,7 @@ Branch1|(in,out)|Layer        | (in, out)        | Batchnorm | Activation|Branch
 -|Layer 2 | (128,64)|yes|ReLU|-|-
 Advantage| (64,Action_size)|-|-|-|-|Value|(64,1)
 
+
 ### Results
 
 ![plot](images/plot_navigation_dqn.png)
