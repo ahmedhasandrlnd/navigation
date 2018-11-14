@@ -23,10 +23,10 @@ The pseudo-code of this agorithm is given below from the udacity [lecture](https
 ### Network Architecture
 The deep neural network has following layers:
 
-Branch1|(in,out)|Layer        | (in, out)        | Batchnorm | Activation|Branch2|(in,out)      
------------- | -----------------|-----------|------------
+Branch1      |(in,out)|Layer        | (in, out) | Batchnorm | Activation|Branch2  |(in,out)      
+------------ | -------|-------------|-----------|-----------|-----------|---------|--------
 -|-|Layer 1 | (State_size,128)|yes|ReLU|-|-
--|Layer 2 | (128,64)|yes|ReLU|-|-
+-|-|Layer 2 | (128,64)|yes|ReLU|-|-
 Advantage| (64,Action_size)|-|-|-|-|Value|(64,1)
 
 
