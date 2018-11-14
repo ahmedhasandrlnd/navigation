@@ -33,22 +33,22 @@ Layer 3 | (64,Action_size)|-|-
 
 ![plot](images/plot_navigation_dqn.png)
 
-Episode 100	Average Score: 0.14\n
-Episode 200	Average Score: 0.39<br/>
-Episode 300	Average Score: 1.15/n
-Episode 400	Average Score: 2.24/n
-Episode 500	Average Score: 3.36<br/>
-Episode 600	Average Score: 3.93/
-Episode 700	Average Score: 4.91\
-Episode 800	Average Score: 5.51
-Episode 900	Average Score: 6.93
-Episode 1000	Average Score: 7.64
-Episode 1100	Average Score: 8.15
-Episode 1200	Average Score: 8.61
-Episode 1300	Average Score: 10.31
-Episode 1400	Average Score: 10.79
-Episode 1500	Average Score: 10.89
-Episode 1600	Average Score: 11.81
-Episode 1700	Average Score: 12.40
-Episode 1780	Average Score: 13.02
-Environment solved in 1680 episodes!	Average Score: 13.02
+`Episode 100	Average Score: 0.14`<br/>
+`Episode 200	Average Score: 0.39`<br/>
+`Episode 300	Average Score: 1.15`<br/>
+`Episode 400	Average Score: 2.24`<br/>
+`Episode 500	Average Score: 3.36`<br/>
+`Episode 600	Average Score: 3.93`<br/>
+`Episode 700	Average Score: 4.91`<br/>
+`Episode 800	Average Score: 5.51`<br/>
+`Episode 900	Average Score: 6.93`<br/>
+`Episode 1000	Average Score: 7.64`<br/>
+`Episode 1100	Average Score: 8.15`<br/>
+`Episode 1200	Average Score: 8.61`<br/>
+`Episode 1300	Average Score: 10.31`<br/>
+`Episode 1400	Average Score: 10.79`<br/>
+`Episode 1500	Average Score: 10.89`<br/>
+`Episode 1600	Average Score: 11.81`<br/>
+`Episode 1700	Average Score: 12.40`<br/>
+`Episode 1780	Average Score: 13.02`<br/>
+`Environment solved in 1680 episodes!	Average Score: 13.02`<br/>
