@@ -30,4 +30,4 @@ Layer 2 | (128,64)|yes|ReLU
 Layer 3 | (64,Action_size)|-|-
 
 ### Results
-![plot](plot_navigation_dqn.png)
+![plot](images/plot_navigation_dqn.png)
