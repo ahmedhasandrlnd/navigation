@@ -38,9 +38,7 @@ Finally, the advantage branch and state branch are combined to get the desired Q
 
 ### Results
 
-![plot](images/plot_navigation_dueling.png)
-
-```
+![plot](images/plot_navigation_dueling.png)|```
 EEpisode 100	Average Score: 0.28
 Episode 200	Average Score: 0.56
 Episode 300	Average Score: 1.07
@@ -61,6 +59,9 @@ Episode 1700	Average Score: 12.67
 Episode 1721	Average Score: 13.07
 Environment solved in 1621 episodes!	Average Score: 13.07
 ```
+-----------------------------------------------|-------------------------------------------------------------
+
+
 
 ### Untrained Agent
 ![untrained agent](images/untrained.gif)
