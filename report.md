@@ -38,7 +38,8 @@ Finally, the advantage branch and state branch are combined to get the desired Q
 
 ### Results
 
-![plot](images/plot_navigation_dueling.png)|```
+![plot](images/plot_navigation_dueling.png)|
+```
 EEpisode 100	Average Score: 0.28
 Episode 200	Average Score: 0.56
 Episode 300	Average Score: 1.07
